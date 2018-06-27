@@ -1,4 +1,3 @@
-
 module SteppingPiece
 
   def moves
